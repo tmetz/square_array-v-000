@@ -6,4 +6,5 @@ def square_array(array)
   #end
   #return array2
   array.collect {|num| num*num}
+  puts array
 end
